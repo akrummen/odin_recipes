@@ -1,3 +1,3 @@
 # odin_recipes
-My first HTML project
+My first HTML project.
 A simple website with three recipes
