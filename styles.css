@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(234, 235, 229);
+}
+
+img {
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid #ccc;
+  padding: 20px;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(153, 26, 26);
+  font-size: 75px;
+  font-weight: bold;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+h3 {
+  color: rgb(51, 51, 206);
+}
+
